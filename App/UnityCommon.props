@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>Fluorescence Goggle</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Qinru Li\Desktop\HoloProject\Unity_2017 Test\Fluorescence Goggle\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Qinru Li\Desktop\HoloProject\Unity_2017 Test\Fluorescence Goggle\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity_2017\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
